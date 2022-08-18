@@ -1,5 +1,4 @@
-# SCRIPT-AUTORES-FREEFIRE-BY-YOSNESIA
-script autores by yosnesia
+# SCRIPT BOT HOSTING by yosnesia
 
 
 <div align="center">
